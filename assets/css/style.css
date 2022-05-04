@@ -27,3 +27,27 @@ body {
     font-family: 'Orelega One', cursive;
     
 }
+
+/** title section**/
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Orelega One', cursive;
+}
+
+/** Emoji buttons */
+.selections {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.selection {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5rem;
+    transition: 100ms;
+    
+}
