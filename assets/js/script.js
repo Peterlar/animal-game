@@ -61,3 +61,10 @@ function randomSelection() {
     const randomIndex = Math.floor(Math.random() * SELECTIONS.length)
     return SELECTIONS[randomIndex]
   }
+
+  /**Showing rules when pressing game-rules button */
+function myFunction() {
+    document.getElementById("rules").innerHTML = "🐍 Beats 🐻";
+    document.getElementById("rules2").innerHTML = "🐻 Beats 🦅";
+    document.getElementById("rules3").innerHTML = "🦅 Beats 🐍";
+  }
