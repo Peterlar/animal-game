@@ -55,3 +55,9 @@ function addSelectionResult(selection, winner) {
 function isWinner(selection, opponentSelection) {
     return selection.beats === opponentSelection.name
   }
+
+  /**Getting a random selectionn when clicking emoji buttons */
+function randomSelection() {
+    const randomIndex = Math.floor(Math.random() * SELECTIONS.length)
+    return SELECTIONS[randomIndex]
+  }
