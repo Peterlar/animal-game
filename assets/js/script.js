@@ -42,3 +42,12 @@ selectionButtons.forEach(selectionButton => {
 function incrementScore(scoreSpan) {
     scoreSpan.innerText = parseInt(scoreSpan.innerText) + 1
   }
+
+  /** Showing winner */
+function addSelectionResult(selection, winner) {
+    const div = document.createElement('div')
+    div.classList.add('result-selection')
+    if (winner) div.classList.add('winner')
+    finalColumn.after(div)
+  }
+  
