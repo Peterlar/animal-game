@@ -37,3 +37,8 @@ selectionButtons.forEach(selectionButton => {
     if (yourWinner) incrementScore(yourScoreSpan)
     if (computerWinner) incrementScore(computerScoreSpan)
   }
+
+  /**Showing score */
+function incrementScore(scoreSpan) {
+    scoreSpan.innerText = parseInt(scoreSpan.innerText) + 1
+  }
