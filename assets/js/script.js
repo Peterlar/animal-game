@@ -1,3 +1,22 @@
+/**Buttons selection */
+const SELECTIONS = [
+    {
+      name: 'snake',
+      emoji: '🐍',
+      beats: 'bear'
+    },
+    {
+      name: 'bear',
+      emoji: '🐻 ',
+      beats: 'falcon'
+    },
+    {
+      name: 'falcon',
+      emoji: '🦅',
+      beats: 'snake'
+    }
+  ]
+
 /**Emoji buttons */
 selectionButtons.forEach(selectionButton => {
     selectionButton.addEventListener('click', e => {
