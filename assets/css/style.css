@@ -76,3 +76,80 @@ body {
     border-radius: 10px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2),
 }
+
+/* Media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    .selections {
+        padding-top: 10px;
+        width: auto;
+        justify-content: center;
+        clear: left;
+        font-size: 8rem;
+    }
+
+    .results {
+        font-size: 30px;
+    }
+
+
+
+}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    .title {
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .selections {
+        padding-top: 10px;
+        width: auto;
+        justify-content: center;
+        clear: left;
+        font-size: 8rem;
+    }
+    .results {
+        padding-top: 20px;
+        font-size: 50px;
+    }
+    body {
+        height: 1600px;
+    }
+
+}
+
+/* For medium screen sizes from 480px wide and down */
+@media screen and (max-width: 480px) {
+    .game-rules {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    height: 30px;
+    clear: left;
+    }
+    
+    .title {
+        font-size: 25px;
+        float: left;
+        padding-left: 70px;
+    }
+    .selection {
+        padding-top: 10px;
+        width: auto;
+        justify-content: center;
+        clear: left;
+        font-size: 4rem;
+    }
+    .results{
+        padding-top: 20px;
+        color: red;
+    }
+    body{
+        height: 1000px;
+    }
+
+}
