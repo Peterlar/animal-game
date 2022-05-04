@@ -9,3 +9,12 @@ body {
     height: 700px;
     
 }
+
+/** Game rules section**/
+.game-rules {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    padding-left: 35px;
+    
+}
