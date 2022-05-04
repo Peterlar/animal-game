@@ -3,14 +3,13 @@
 /** background section with animated picture**/
 
 body {
-    background-image: url(/assets/images/animate\ animals.jpg);
+    background-image: url(/assets/images/animate\ animals\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
     
 }
 
-/** Game rules section**/
 .game-rules {
     display: flex;
     justify-content: center;
@@ -19,7 +18,6 @@ body {
     
 }
 
-/** rules desciption section**/
 .rules-description {
     display: flex;
     justify-content: center;
@@ -28,7 +26,6 @@ body {
     
 }
 
-/** title section**/
 .title {
     display: flex;
     justify-content: center;
@@ -67,7 +64,6 @@ body {
     font-family: 'Orelega One', cursive;
 }
 
-/**restart button **/
 .restart {
     color: green;
     height: 40px;
