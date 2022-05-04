@@ -51,3 +51,7 @@ function addSelectionResult(selection, winner) {
     finalColumn.after(div)
   }
   
+  /**Determing the winner */
+function isWinner(selection, opponentSelection) {
+    return selection.beats === opponentSelection.name
+  }
