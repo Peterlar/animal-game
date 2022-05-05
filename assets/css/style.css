@@ -3,7 +3,7 @@
 /** background section with animated picture**/
 
 body {
-    background-image: url(/assets/images/animate\ animals\ \(1\).jpg);
+    background-image: url(../images/animate\ animals\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
