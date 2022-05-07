@@ -11,4 +11,11 @@ When the player enters the landing page the title " Amazing Animal Game " is vis
 ![image](https://user-images.githubusercontent.com/100356636/167257526-636f3d03-418f-48da-b633-0c544f375615.png)
 
 - Rules Button
+
 The rules button is centered below the title and logo and has an hidden information. The player has to press the button in order to se the rules of the game, if needed. When the button is pressed the rules will appear with the emojis used as buttons in order for the player to understand what the gaming area buttons are for.
+
+![image](https://user-images.githubusercontent.com/100356636/167258008-db542420-0413-48be-8b16-f883c7d65c42.png)
+
+When button is pressed
+
+![image](https://user-images.githubusercontent.com/100356636/167258060-509680d5-b0d7-4291-abee-abd35ee563a9.png)
