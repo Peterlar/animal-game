@@ -19,3 +19,14 @@ The rules button is centered below the title and logo and has an hidden informat
 When button is pressed
 
 ![image](https://user-images.githubusercontent.com/100356636/167258060-509680d5-b0d7-4291-abee-abd35ee563a9.png)
+
+- Emoji Buttons Area " Gaming Area"
+
+When the players wants to choose one of the animl to play againts the the computer the player needs to point the arrow over the animal. When it's hovering over the emoji the emoji will expand to a bigger size. This function will make the player understand what buttons is about to be choosen.
+
+![image](https://user-images.githubusercontent.com/100356636/167258365-c60ce6e8-cc5b-4215-a79e-422e848d4c27.png)
+
+When arrow howers over the emoji.
+
+![image](https://user-images.githubusercontent.com/100356636/167258409-cdd14804-2f41-4f07-ad4a-03fdd4e10bc0.png)
+
