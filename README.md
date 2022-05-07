@@ -6,4 +6,9 @@ Amazing Animal Game is an children friendly version of the traditional Rock Pape
 # Features
 
 __The Amazing Animal Game Logo and Heading__
+
 When the player enters the landing page the title " Amazing Animal Game " is visible with big black bold letters to fit the green background image with animated animals. The font style used is called "Orelega One" . The style is choosen to have a clear and easy visability for the player.
+![image](https://user-images.githubusercontent.com/100356636/167257526-636f3d03-418f-48da-b633-0c544f375615.png)
+
+- Rules Button
+The rules button is centered below the title and logo and has an hidden information. The player has to press the button in order to se the rules of the game, if needed. When the button is pressed the rules will appear with the emojis used as buttons in order for the player to understand what the gaming area buttons are for.
