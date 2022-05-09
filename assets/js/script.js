@@ -72,7 +72,7 @@ function randomSelection() {
 
   /**Showing rules when pressing game-rules button */
 function myFunction() {
-    document.getElementById("rules").innerHTML = "🐍 Beats 🐻";
-    document.getElementById("rules2").innerHTML = "🐻 Beats 🦅";
-    document.getElementById("rules3").innerHTML = "🦅 Beats 🐍";
+    document.getElementById("rules").innerHTML = "Snake 🐍 Beats 🐻 Bear";
+    document.getElementById("rules2").innerHTML = "Bear 🐻 Beats 🦅 Falcon";
+    document.getElementById("rules3").innerHTML = "Falcon 🦅 Beats 🐍 Snake";
   }
