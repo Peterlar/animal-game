@@ -20,7 +20,7 @@ When button is pressed
 
 ![image](https://user-images.githubusercontent.com/100356636/167258060-509680d5-b0d7-4291-abee-abd35ee563a9.png)
 
-- Emoji Buttons Area " Gaming Area"
+- Emoji Buttons Section " Gaming Area"
 
 When the players wants to choose one of the animl to play againts the the computer the player needs to point the arrow over the animal. When it's hovering over the emoji the emoji will expand to a bigger size. This function will make the player understand what buttons is about to be choosen.
 
@@ -28,5 +28,18 @@ When the players wants to choose one of the animl to play againts the the comput
 
 When arrow howers over the emoji.
 
-![image](https://user-images.githubusercontent.com/100356636/167258409-cdd14804-2f41-4f07-ad4a-03fdd4e10bc0.png)
+![image](https://user-images.githubusercontent.com/100356636/167395641-cdfbd7e8-bf90-4726-a76d-4f14d330ce59.png)
+
+
+- Visible Score Section " Gaming Area"
+
+The score section is placed below the emoji buttons with an fat bold style. The font style used the same as in the title " Orelega one". This section will alow the player to se the actual score of the game.
+
+![image](https://user-images.githubusercontent.com/100356636/167395312-60bcfcdc-317b-4ada-b947-a49a6893523e.png)
+
+When the score is counted.
+
+![image](https://user-images.githubusercontent.com/100356636/167395424-f288d97b-d5f2-476c-a797-4dcf59027cc2.png)
+
+
 
