@@ -41,5 +41,27 @@ When the score is counted.
 
 ![image](https://user-images.githubusercontent.com/100356636/167395424-f288d97b-d5f2-476c-a797-4dcf59027cc2.png)
 
+- Restart button Section " Gaming Area"
+
+When the player wants to finish the game or restart the game the player can hit the restart button and the whole page will reload and the landing page will start from the beginning. This means that the rules will be hidden on the page until the player hits the button. The score will also be set to zero for both the player and the computer.
+
+![image](https://user-images.githubusercontent.com/100356636/167398014-800ffa93-a8f7-44d1-991d-ff543241b3f2.png)
+
+When the restart button is pressed.
+
+![image](https://user-images.githubusercontent.com/100356636/167398101-560a9105-8a76-460d-b86b-0b645f2bbbc8.png)
+
+# Features left to implement
+
+- Animated welcome video showing battle with the animals.
+- Pop up message with selected animals
+
+# Testing
+
+**Functional testing**
+
+Testing was made to make sure that the buttons and score was functioning well with out delays or errors on various devices. The testing was made by playing the game on severeral different brands and screen sizes. The rules button was pressed to make sure the rules where visible and then the game was played to 10 before hitting the restart button.
+
+**Responsiveness**
 
 
