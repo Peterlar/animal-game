@@ -63,6 +63,34 @@ When the restart button is pressed.
 
 Testing was made to make sure that the buttons and score was functioning well with out delays or errors on various devices. The testing was made by playing the game on severeral different brands and screen sizes. The rules button was pressed to make sure the rules where visible and then the game was played to 10 before hitting the restart button.
 
-**Responsiveness**
+### Responsiveness
+
+All pages were tested to ensure responsiveness on screen sizes from 320px and upwards as defined in [WCAG 2.1 Reflow criteria for responsive design](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html) on Chrome.
+
+Steps to test:
+
+1. Open browser and navigate to [Rent a chef](https://peterlar.github.io/rent-a-chef/)
+2. Open the developer tools (right click and inspect)
+3. Set to responsive and decrease width to 320px
+4. Set the zoom to 50%
+5. Click and drag the responsive window to maximum width
+
+Expected:
+
+Website is responsive on all screen sizes and no images are pixelated or stretched.
+No horizontal scroll is present.
+No elements overlap.
+
+Website was also opened on the following devices:
+
+- Iphone SE
+- Iphone XR
+- Iphone 12 pro
+- Pixel 5
+- Samsung Galaxy 8
+- Samsung Galaxy S20 Ultra
+- Nest Hub Max
+
+**Validator Testing**
 
 
