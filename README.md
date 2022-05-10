@@ -18,7 +18,8 @@ The rules button is centered below the title and logo and has an hidden informat
 
 When button is pressed
 
-![image](https://user-images.githubusercontent.com/100356636/167258060-509680d5-b0d7-4291-abee-abd35ee563a9.png)
+![image](https://user-images.githubusercontent.com/100356636/167618821-0987eca8-a6f6-4086-8712-3097e45b4ec9.png)
+
 
 - Emoji Buttons Section " Gaming Area"
 
