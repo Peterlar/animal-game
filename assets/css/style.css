@@ -29,6 +29,7 @@ body {
 
 .rules {
     list-style-type: none;
+    line-height: 30px;
 }
 
 .title {

@@ -75,4 +75,5 @@ function myFunction() {
     document.getElementById("rules").innerHTML = "Snake 🐍 Beats 🐻 Bear";
     document.getElementById("rules2").innerHTML = "Bear 🐻 Beats 🦅 Falcon";
     document.getElementById("rules3").innerHTML = "Falcon 🦅 Beats 🐍 Snake";
+    document.getElementById("rules4").innerHTML = "No Points = TRY AGAIN!";
   }
