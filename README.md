@@ -93,4 +93,8 @@ Website was also opened on the following devices:
 
 **Validator Testing**
 
+- HTML
+One error was mentioned at the official W3C validator. Problem was that paragrafs can not be a child of an UL element. It was updated to LI instead.
 
+- CSS
+- 
