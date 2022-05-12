@@ -99,4 +99,6 @@ One error was mentioned at the official W3C validator. Problem was that paragraf
 
 - CSS
 
+## Deployment
+
 One parcing error was found through the official (Jigsaw) validator. 
