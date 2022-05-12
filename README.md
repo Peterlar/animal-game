@@ -105,10 +105,15 @@ One parcing error was found through the official (Jigsaw) validator.
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - Scroll down to "Github Pages"
-  - You will find following message "Pages settings now has its own dedicated tab! Check it out here!"
-  - Click "Check it out here"
+  - In the GitHub repository, navigate to the Settings tab.
+  - Scroll down to "Pages" on the left side.
+  - Click "Pages".
   - A live link will be displayed in a green banner when published successfully. 
 
-The live link can be found here https://peterlar.github.io/rent-a-chef/
+The live link can be found here https://peterlar.github.io/animal-game/
+
+## Credits 
+
+### Media
+
+## Other General Project Advice
