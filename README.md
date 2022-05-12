@@ -114,6 +114,6 @@ The live link can be found here https://peterlar.github.io/animal-game/
 
 ## Credits 
 
-### Media
+## Media
 
 ## Other General Project Advice
