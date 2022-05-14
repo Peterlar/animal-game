@@ -99,7 +99,7 @@ One error was mentioned at the official W3C validator. Problem was that paragraf
 
 - CSS
 
-One parcing error was found through the official (Jigsaw) validator. 
+One parcing error was found through the official (Jigsaw) validator. I removed the shadow function as it was not needed wich solved the error.
 
 
 ## Deployment
