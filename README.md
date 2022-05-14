@@ -113,7 +113,7 @@ One parcing error was found through the official (Jigsaw) validator. I removed t
 The live link can be found here https://peterlar.github.io/animal-game/
 
 ## Credits 
-I want to give credits to web dev simplified that has alo of tutorials and buildt the gaming are. Also want to give credits to W3 school finding the right buttons.
+I want to give credits to web dev simplified that has alot of tutorials and buildt the gaming area. Also want to give credits to W3 school helping med finding the right buttons.
 
 ## Media
 Background image was found at https://se.dreamstime.com/themed-djur-bakgrund-f%C3%B6r-djungel-eller-zoo-image117102178.
