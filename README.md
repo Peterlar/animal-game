@@ -119,3 +119,4 @@ I want to give credits to web dev simplified that has alo of tutorials and build
 Background image was found at https://se.dreamstime.com/themed-djur-bakgrund-f%C3%B6r-djungel-eller-zoo-image117102178.
 
 ## Other General Project Advice
+Due to earlier problems with gitpod pushing errors to github i worked in 2 respitories this time to find out what caused the issues. Project was built in https://github.com/Peterlar/RockPaperScissors-. You will find all updates there.
