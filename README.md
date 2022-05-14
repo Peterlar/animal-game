@@ -69,7 +69,7 @@ All pages were tested to ensure responsiveness on screen sizes from 320px and up
 
 Steps to test:
 
-1. Open browser and navigate to [Rent a chef](https://peterlar.github.io/rent-a-chef/)
+1. Open browser and navigate to https://peterlar.github.io/animal-game/
 2. Open the developer tools (right click and inspect)
 3. Set to responsive and decrease width to 320px
 4. Set the zoom to 50%
