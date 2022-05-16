@@ -105,11 +105,11 @@ One parcing error was found through the official (Jigsaw) validator. I removed t
 
 A couple of warnings was found passing through the official Jshint validator. It was solved by adding semicolons.
 
-- There are 9 functions in this file.
+- There are 10 functions in this file.
 
 - Function with the largest signature take 2 arguments, while the median is 1.
 
-- Largest function has 7 statements in it, while the median is 2.
+- Largest function has 7 statements in it, while the median is 1.5.
 
 - The most complex function has a cyclomatic complexity value of 3 while the median is 1.
 
