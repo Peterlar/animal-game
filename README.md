@@ -57,6 +57,21 @@ When the restart button is pressed.
 - Animated welcome video showing battle with the animals.
 - Pop up message with selected animals
 
+## Technologies
+
+* HTML
+    * The structure of the Website was developed using HTML as the main language.
+* CSS
+    * The Website was styled using custom CSS in an external file.
+* Javascript
+    * Functions was built by using Javascript, such as buttons, counting scores.
+* Visual Studio Code
+    * The website was developed using Visual Studio Code IDE
+* GitHub
+    * Source code is hosted on GitHub and delpoyed using Git Pages.
+* Git 
+    * Used to commit and push code during the development opf the Website
+
 # Testing
 
 **Functional testing**
