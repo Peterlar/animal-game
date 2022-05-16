@@ -128,6 +128,22 @@ A couple of warnings was found passing through the official Jshint validator. It
 
 - The most complex function has a cyclomatic complexity value of 3 while the median is 1.
 
+**Accessibility**
+
+[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.### Accessibility
+
+Landing page:
+
+**Accessibility**
+
+[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.### Accessibility
+
+Landing page:
+
+<img width="960" alt="webaim" src="https://user-images.githubusercontent.com/100356636/168576201-de717db1-c556-4617-a0b7-e6e88ab0ca2c.PNG">
+
+
+
 ## Unfixed Bugs
 
 There was an unfixed warning while using JSHINT " Three warnings
