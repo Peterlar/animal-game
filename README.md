@@ -103,7 +103,7 @@ One parcing error was found through the official (Jigsaw) validator. I removed t
 
 - Javascript
 
-A couple of warnings was found passing through the official Jshint validator. It was solved by adding semicolons.
+A couple of warnings was found passing through the official Jshint validator. It was solved by adding semicolons. Also an undefined function was mentioned in wich i added an eventlistener with the help of the student support.
 
 - There are 10 functions in this file.
 
@@ -112,6 +112,12 @@ A couple of warnings was found passing through the official Jshint validator. It
 - Largest function has 7 statements in it, while the median is 1.5.
 
 - The most complex function has a cyclomatic complexity value of 3 while the median is 1.
+
+## Unfixed Bugs
+
+There was an unfixed warning while using JSHINT " Three warnings
+29	'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6')"
+I updated the version by pressing configure buttton and actived ES6. The warning was still mentioned.
 
 
 ## Deployment
