@@ -101,6 +101,18 @@ One error was mentioned at the official W3C validator. Problem was that paragraf
 
 One parcing error was found through the official (Jigsaw) validator. I removed the shadow function as it was not needed wich solved the error.
 
+- Javascript
+
+A couple of warnings was found passing through the official Jshint validator. It was solved by adding semicolons.
+
+- There are 9 functions in this file.
+
+- Function with the largest signature take 2 arguments, while the median is 1.
+
+- Largest function has 7 statements in it, while the median is 2.
+
+- The most complex function has a cyclomatic complexity value of 3 while the median is 1.
+
 
 ## Deployment
 
@@ -117,6 +129,7 @@ I want to give credits to web dev simplified that has alot of tutorials and buil
 
 ## Media
 Background image was found at https://se.dreamstime.com/themed-djur-bakgrund-f%C3%B6r-djungel-eller-zoo-image117102178.
+Emojis can be found at Hotemoji.com
 
 ## Other General Project Advice
 Due to earlier problems with gitpod pushing errors to github i worked in 2 respitories this time to find out what caused the issues. Project was built in https://github.com/Peterlar/RockPaperScissors-. You will find all updates there.
