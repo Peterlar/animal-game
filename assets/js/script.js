@@ -77,7 +77,7 @@ function myFunction()  {
     document.getElementById("rules3").innerHTML = "Falcon 🦅 Beats 🐍 Snake";
     document.getElementById("rules4").innerHTML = "No Points = TRY AGAIN!";
   }
-
+  /** DOMloading , Rulesbutton element */
   document.addEventListener("DOMContentLoaded", function () {
     myButton.addEventListener('click', myFunction);
   });
