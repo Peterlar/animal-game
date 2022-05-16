@@ -3,7 +3,7 @@ const selectionButtons = document.querySelectorAll('[data-selection]');
 const finalColumn = document.querySelector('[data-final-column]');
 const computerScoreSpan = document.querySelector('[data-computer-score]');
 const yourScoreSpan = document.querySelector('[data-your-score]');
-
+const myButton = document.getElementById('my-button');
 
 
 /**Buttons selection */
@@ -71,9 +71,14 @@ function randomSelection() {
   }
 
   /**Showing rules when pressing game-rules button */
-function myFunction() {
+function myFunction()  {
     document.getElementById("rules").innerHTML = "Snake 🐍 Beats 🐻 Bear";
     document.getElementById("rules2").innerHTML = "Bear 🐻 Beats 🦅 Falcon";
     document.getElementById("rules3").innerHTML = "Falcon 🦅 Beats 🐍 Snake";
     document.getElementById("rules4").innerHTML = "No Points = TRY AGAIN!";
   }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    myButton.addEventListener('click', myFunction);
+  });
+  
