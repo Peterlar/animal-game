@@ -57,6 +57,21 @@ When the restart button is pressed.
 - Animated welcome video showing battle with the animals.
 - Pop up message with selected animals
 
+## Technologies
+
+* HTML
+    * The structure of the Website was developed using HTML as the main language.
+* CSS
+    * The Website was styled using custom CSS in an external file.
+* Javascript
+    * Functions was built by using Javascript, such as buttons, counting scores.
+* Visual Studio Code
+    * The website was developed using Visual Studio Code IDE
+* GitHub
+    * Source code is hosted on GitHub and delpoyed using Git Pages.
+* Git 
+    * Used to commit and push code during the development opf the Website
+
 # Testing
 
 **Functional testing**
@@ -103,15 +118,37 @@ One parcing error was found through the official (Jigsaw) validator. I removed t
 
 - Javascript
 
-A couple of warnings was found passing through the official Jshint validator. It was solved by adding semicolons.
+A couple of warnings was found passing through the official Jshint validator. It was solved by adding semicolons. Also an undefined function was mentioned in wich i added an eventlistener with the help of the student support.
 
-- There are 9 functions in this file.
+- There are 10 functions in this file.
 
 - Function with the largest signature take 2 arguments, while the median is 1.
 
-- Largest function has 7 statements in it, while the median is 2.
+- Largest function has 7 statements in it, while the median is 1.5.
 
 - The most complex function has a cyclomatic complexity value of 3 while the median is 1.
+
+**Accessibility**
+
+[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.### Accessibility
+
+Landing page:
+
+**Accessibility**
+
+[Wave Accessibility](https://wave.webaim.org/) tool was used throughout development and for final testing of the deployed website to check for any aid accessibility testing.### Accessibility
+
+Landing page:
+
+<img width="960" alt="webaim" src="https://user-images.githubusercontent.com/100356636/168576201-de717db1-c556-4617-a0b7-e6e88ab0ca2c.PNG">
+
+
+
+## Unfixed Bugs
+
+There was an unfixed warning while using JSHINT " Three warnings
+29	'arrow function syntax (=>)' is only available in ES6 (use 'esversion: 6')"
+I updated the version by pressing configure buttton and actived ES6. The warning was still mentioned.
 
 
 ## Deployment
